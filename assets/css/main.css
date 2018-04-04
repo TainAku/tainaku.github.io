@@ -524,31 +524,6 @@
 			font-size: 1.35em;
 		}
 
-		input[type="submit"].special,
-		input[type="reset"].special,
-		input[type="button"].special,
-		.button.special {
-			background-color: #fca32f;
-			border-color: #fca32f;
-			color: #ffffff !important;
-		}
-
-			input[type="submit"].special:hover,
-			input[type="reset"].special:hover,
-			input[type="button"].special:hover,
-			.button.special:hover {
-				background-color: #fca32f;
-				border-color: #fca32f;
-			}
-
-			input[type="submit"].special:active,
-			input[type="reset"].special:active,
-			input[type="button"].special:active,
-			.button.special:active {
-				background-color: #fca32f;
-				border-color: #fca32f;
-			}
-
 /* Work Item */
 
 	.work-item {
