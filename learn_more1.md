@@ -2,13 +2,32 @@
 layout: page
 title: Learn More
 ---
-
+<html>
 <p>My name is Ekaterina Kharitonova. I'm a QA, coach and just a nice person to have a chat with. I tend to blog about different things (actually it could be a total mix of everything: culture, gadgets, code, travel and so on).</p>
 
 <hr />
 
 <h2>WORK EXPERIENCE</h2>
-   November 2016 — until now
+
+<p>November 2017 — until now</p>
+   Lead QA
+   Automation:
+   Writing and expanding the framework for testing a mobile bank for Android / iOS (Java + Cucumber + jUnit + Appium) using the Page Page pattern;
+   The application of the system of automatic assembly (Gradle);
+   
+   Infrastructure:
+   Integration, configuration, integration and configuration of DevOps tools (GitlabCI, Docker);
+   Automation and optimization of assembly processes (CI), delivery of releases to stands (CD);
+   Development of pipeline script for application deployment.
+   
+   Administrative work:
+   Control implementation of the framework in 3 teams;
+   Training on working with Git, Appium;
+   Assistance to QA engineers in the automation of testing processes;
+   Analysis and participation in the development and support of the development, testing and delivery of releases to stands.
+
+
+   November 2016 — November 2017
    Alfabank Moscow, www.alfabank.ru
       
    Senior QA tester
@@ -63,3 +82,35 @@ title: Learn More
 <hr />
 
 <h2>HOBBIES</h2>
+
+Имеются:
+Опыт работы в территориально распределенной SCRUM команде и выстраивания процесса разработки ПО с членами команды;
+Опыт работы без документации и в сжатые сроки;
+Опыт написания тестовых сценариев по ТЗ до процесса реализации;
+Навыки организации и контроля работ нескольких групп тестировщиков параллельно;
+Опыт разработки автотестов на Ruby (Оптимизация кода, рефакторинг);
+Опыт работы с Selenium IDE, HP ALM, Jira, Confluence, soapUI;
+Базовые знания о HTML, CSS;
+Опыт написания SQL запросов;
+Опыт тестирования веб-сервисов (SOAP, REST);
+Опыт работы с Git.
+
+Personal qualities I posses: flexibility, accuracy, responsibility, fast learning.
+
+• Expertise in addressing different web elements using locator's ID, Class name, CSS Selector, XPath etc.
+• Expertise in developing automation scripts in BDD format using Cucumber and Proficient in writing Cucumber scenarios in GHERKIN format. 
+• Extensive Experience in developing Test Plans & writing Test Cases based on Requirement Document.
+• Experience include Unit testing, Functional testing, User Acceptance Testing, Integration testing, System testing, Performance testing, Sanity testing, Exception testing, Compatibility testing of client/server and Web based Applications. 
+• Extensive experience in using Firefox Add-ons like Selenium IDE, Firebug, Firepath
+• Experience with coding in Ruby, HTML, CSS, JavaScript
+• Good experience in Defect Life Cycle Management tools like HP Quality Center (QC), JIRA. 
+• Experience in Managing the testing Schedules and responsible for the deliverables.
+• Experience in working with IDE's like Eclipse, Sublime Text3, Visual Studio. 
+Technical Skills: 
+Automation Tool Selenium IDE, Selenium RC, Selenium WebDriver, Cucumber. 
+Build /Integration Tools Jenkins
+Bug Tracking Tools JIRA, HP Quality Center
+Programming Languages Java, Java Script, XML, HTML 5, C, C#. 
+Version Control Tools GIT, BIT Bucket 
+Protocols HTTP, HTTPS, TCP/IP, SOAP, REST
+</html>
